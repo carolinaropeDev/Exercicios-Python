@@ -12,5 +12,9 @@ Aqui eu guardo as minhas resoluções dos exercícios práticos de Python (basea
 * **Ex008:** Conversor de Medidas (Metros para cm e mm)
 * **Ex009:** Gerador de Tabuada Automática
 * **Ex010:** Um script simples de conversão de Reais (R$) para Dólares (US$), focado em treinar variáveis e operadores matemáticos básicos.
+* **Ex011:** Pintando Parede
+Um programa focado em geometria básica e proporção. O script lê a largura e a altura de uma parede em metros, calcula a sua área total (m²) e informa a quantidade exata de tinta necessária para pintá-la, sabendo que o rendimento da tinta é de 2m² por litro.
+* **Ex012:** Calculando Descontos
+Algoritmo que recebe o preço de um produto e calcula o seu novo valor com 5% de desconto aplicado, utilizando cálculo direto de porcentagem.
 ---
 *Fique à vontade para olhar meus códigos e acompanhar meu progresso!*
