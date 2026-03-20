@@ -11,5 +11,6 @@ Aqui eu guardo as minhas resoluções dos exercícios práticos de Python (basea
 * **Ex002:** Respondendo ao Usuário
 * **Ex008:** Conversor de Medidas (Metros para cm e mm)
 * **Ex009:** Gerador de Tabuada Automática
+* **Ex010:** Um script simples de conversão de Reais (R$) para Dólares (US$), focado em treinar variáveis e operadores matemáticos básicos.
 ---
 *Fique à vontade para olhar meus códigos e acompanhar meu progresso!*
